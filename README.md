@@ -3,7 +3,7 @@
 ## Les 1
 Dit gedeelte wordt voor Les 1 van M5.
 
-Werkt niet.
+Werkt niet. Ik kom er niet volledig meer uit bij deze les dus ik zal het navragen tijdens de programmeer les zelf volgende week (1-10-2026 22:27)
 
 ## Les 2
 Dit gedeelte wordt voor Les 2 van M5.
