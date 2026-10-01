@@ -25,3 +25,5 @@ Voor een of andere redenen doen mijn Gifjes het niet, maar dit is opdracht 4A. I
 Hierbij de link: https://github.com/CadyDB/Space48.git
 
 opdracht 4B komt hieronder! 
+
+4B kom ik niet volledig uit maar ik link wel de scripts voor 4A in de aSpace48 repo! (1-10-2026 23:39)
