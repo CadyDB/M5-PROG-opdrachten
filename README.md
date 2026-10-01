@@ -8,6 +8,20 @@ Werkt niet.
 ## Les 2
 Dit gedeelte wordt voor Les 2 van M5.
 
+Ik heb deze nog niet gemaakt, maar ik zal dat zeker doen (1-10-2026 22:26)
+
 ## Les 3
+Dit gedeelte wordt voor Les 3 van M5,
+
+Ik was ziek bij deze Les maar ik zal het weer terug lezen om te kijken wat ik moet doen (1-10-2026 22:27)
 
 ## Les 4
+Gegroet, daar been ik weer, Dit is Les 4! 
+
+[les4](Gifs/Les4.gif)
+
+Voor een of andere redenen doen mijn Gifjes het niet, maar dit is opdracht 4A. Ik ga de codes linken in de Space48 repository die ik moest Forken!
+
+Hierbij de link: https://github.com/CadyDB/Space48.git
+
+opdracht 4B komt hieronder! 
