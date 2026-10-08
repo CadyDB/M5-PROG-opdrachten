@@ -20,7 +20,7 @@ Ik denk dat ik wat meer context nodig heb voor deze opdrachten, Excuses ervoor d
 ## Les 4
 Gegroet, daar been ik weer, Dit is Les 4! 
 
-[les4](Gifs/Les4.gif)
+![les4](Gifs/Les4.gif)
 
 Voor een of andere redenen doen mijn Gifjes het niet, maar dit is opdracht 4A. Ik ga de codes linken in de Space48 repository die ik moest Forken!
 
