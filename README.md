@@ -15,6 +15,8 @@ Dit gedeelte wordt voor Les 3 van M5,
 
 Ik was ziek bij deze Les maar ik zal het weer terug lezen om te kijken wat ik moet doen (1-10-2026 22:27)
 
+Ik denk dat ik wat meer context nodig heb voor deze opdrachten, Excuses ervoor dat ik het niet gemaakt heb meneer. (1-10-2026 23:51)
+
 ## Les 4
 Gegroet, daar been ik weer, Dit is Les 4! 
 
@@ -26,4 +28,6 @@ Hierbij de link: https://github.com/CadyDB/Space48.git
 
 opdracht 4B komt hieronder! 
 
-4B kom ik niet volledig uit maar ik link wel de scripts voor 4A in de aSpace48 repo! (1-10-2026 23:39)
+4B kom ik niet volledig uit maar ik link wel de scripts voor 4A in de aSpace48 repo (1-10-2026 23:39)
+
+## Les 5
