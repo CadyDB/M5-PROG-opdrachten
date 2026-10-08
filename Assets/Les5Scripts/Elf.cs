@@ -6,7 +6,7 @@ public class Elf : EnemyParent
 
     void Start()
     {
-        health = 2;
+        health = 5;
         speed = 5f;
 
         renderer = GetComponent<Renderer>();

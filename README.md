@@ -31,3 +31,7 @@ opdracht 4B komt hieronder!
 4B kom ik niet volledig uit maar ik link wel de scripts voor 4A in de aSpace48 repo (1-10-2026 23:39)
 
 ## Les 5
+
+![les5](Gifs/Les5.gif)
+
+Hierbij Les 5! bij deze opdracht moest ik het script [EnemyParent](Assets/Les5Scripts/EnemyParent.cs) laten erven met [Brute](Assets/Les5Scripts/Brute.cs) en [Elf](Assets/Les5Scripts/Elf.cs). Ik vond de opdracht een beetje ingewikkeld, maar met hulp dankzij de docent was het gelukt! 

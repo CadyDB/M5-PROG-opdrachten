@@ -7,9 +7,23 @@ public class EnemyParent : MonoBehaviour
 
     void Update()
     {
-        if (health > 0)
+        transform.Translate(Vector2.right * speed * Time.deltaTime);
+    }
+
+    protected void Damage()
+    {
+        health -= 1;
+
+        if(health <= 0)
         {
-            transform.Translate(Vector2.right * speed * Time.deltaTime);
+            Destroy(gameObject);
+        }
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Bullet"))
+        {
+            Damage();
         }
     }
 }
