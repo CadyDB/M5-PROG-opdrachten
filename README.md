@@ -46,7 +46,8 @@ Hierbij Les 6, Screenshots en een link van de tower defense, onderaan de readme 
 Link naar de repository van de tower defense: https://github.com/CadyDB/TowerDefenseShenanigens.git
 In totaal 14 public variables, denk ik tenminste. Alleen de ints maken problemen, de rest doet het allemaal nog prima.
 
-Dependancies:
+#### Dependancies:
+
 class Enemy 
 int health read and write
 int currentWayPoints read and write
