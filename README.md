@@ -44,7 +44,7 @@ Hierbij Les 5! bij deze opdracht moest ik het script [EnemyParent](Assets/Les5Sc
 Hierbij Les 6, Screenshots en een link van de tower defense, onderaan de readme in de tower defense is deze opdracht en ik zal uitleggen in deze readme hoeveel public variables ik heb gevonden.
 
 Link naar de repository van de tower defense: https://github.com/CadyDB/TowerDefenseShenanigens.git
-In totaal 14 public variables, denk ik tenminste. 
+In totaal 14 public variables, denk ik tenminste. Alleen de ints maken problemen, de rest doet het allemaal nog prima.
 
 Dependancies:
 class Enemy 
