@@ -3,6 +3,10 @@
 ## Les 1
 Dit gedeelte wordt voor Les 1 van M5.
 
+[Opdracht1](M5-Opdrachten/Les-1/1Opdrcht.png)
+
+screenshot wilt niet goed laden, maar het staat in [Les1](M5-Opdrachten).
+
 Werkt niet. Ik kom er niet volledig meer uit bij deze les dus ik zal het navragen tijdens de programmeer les zelf volgende week (1-10-2026 22:27)
 
 ## Les 2
