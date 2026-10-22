@@ -39,3 +39,22 @@ opdracht 4B komt hieronder!
 ![les5](Gifs/Les5.gif)
 
 Hierbij Les 5! bij deze opdracht moest ik het script [EnemyParent](Assets/Les5Scripts/EnemyParent.cs) laten erven met [Brute](Assets/Les5Scripts/Brute.cs) en [Elf](Assets/Les5Scripts/Elf.cs). Ik vond de opdracht een beetje ingewikkeld, maar met hulp dankzij de docent was het gelukt! 
+
+## Les 6
+Hierbij Les 6, Screenshots en een link van de tower defense, onderaan de readme in de tower defense is deze opdracht en ik zal uitleggen in deze readme hoeveel public variables ik heb gevonden.
+
+Link naar de repository van de tower defense: https://github.com/CadyDB/TowerDefenseShenanigens.git
+In totaal 14 public variables, denk ik tenminste. 
+
+Dependancies:
+class Enemy 
+int health read and write
+int currentWayPoints read and write
+
+class Tower
+int towerPrice read and write
+
+class CoinManager
+int coins read and write
+
+En dat was het voor deze opdracht. Ik vond het best makkelijk nadat ik een goede uitleg heb gehad en alles is gelukt!
