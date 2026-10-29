@@ -3,18 +3,19 @@
 ## Les 1
 Dit gedeelte wordt voor Les 1 van M5.
 
-[Opdracht1](M5-Opdrachten/Les-1/1Opdrcht.gif)
-Dit is opdracht 1, vrij simpel je print je gegevens.
+Opdracht 1.1, je gegevens printen, vondt het een makkelijke opdracht en de screenshot moet te vinden zijn.
 
-[Opdracht2](M5-Opdrachten/Les-1/Opdrcht2.gif)
+Opdracht 1.2, Hp output, het werkt voor de helft wel en ik snap het ook.
 
-[Opdracht3](M5-Opdrachten/Les-1/Opdrcht3.gif)
+Opdracht 1.3, Naam uitprinten, makkelijk, nieuwe functie geschreven en opgeroepen in de start functie.
 
-[Opdracht4](M5-Opdrachten/Les-1/Opdrcht4.gif)
+Opdracht 1.4, grootste nummer berekenen, met een beetje hulp van AI is het gelukt.
+
+Opdracht 1.5, 
 
 screenshots willen niet goed laden, maar het staat in [Les1](M5-Opdrachten).
 
-Werkt niet. Ik kom er niet volledig meer uit bij deze les dus ik zal het navragen tijdens de programmeer les zelf volgende week (1-10-2026 22:27)
+
 
 ## Les 2
 Dit gedeelte wordt voor Les 2 van M5.
