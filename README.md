@@ -3,9 +3,16 @@
 ## Les 1
 Dit gedeelte wordt voor Les 1 van M5.
 
-[Opdracht1](M5-Opdrachten/Les-1/1Opdrcht.png)
+[Opdracht1](M5-Opdrachten/Les-1/1Opdrcht.gif)
+Dit is opdracht 1, vrij simpel je print je gegevens.
 
-screenshot wilt niet goed laden, maar het staat in [Les1](M5-Opdrachten).
+[Opdracht2](M5-Opdrachten/Les-1/Opdrcht2.gif)
+
+[Opdracht3](M5-Opdrachten/Les-1/Opdrcht3.gif)
+
+[Opdracht4](M5-Opdrachten/Les-1/Opdrcht4.gif)
+
+screenshots willen niet goed laden, maar het staat in [Les1](M5-Opdrachten).
 
 Werkt niet. Ik kom er niet volledig meer uit bij deze les dus ik zal het navragen tijdens de programmeer les zelf volgende week (1-10-2026 22:27)
 
