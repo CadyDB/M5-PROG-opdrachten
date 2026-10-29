@@ -48,6 +48,9 @@ using UnityEngine;
         
     }
 
+    //int BerekenSchade(int aanval, int verdediging)
+    
+
    
 
     void Begroet(string Naam)

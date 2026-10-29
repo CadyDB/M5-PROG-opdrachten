@@ -1,16 +1,19 @@
+using TMPro;
 using UnityEngine;
 
-public class Scoreboard : MonoBehaviour
+
+class Scoreboard : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private int score = 0;
+    private TMP_Text textField;
     void Start()
     {
-        
+        textField = GetComponent<TMP_Text>();
+        PickUp.ScoreAdded  += AddScore; 
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    private void AddScore(int scoreValue)
+    {              
+        score += scoreValue;
+        textField.text = "score: " + score;
     }
 }

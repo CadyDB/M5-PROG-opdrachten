@@ -15,12 +15,12 @@ Opdracht 1.5,
 
 screenshots willen niet goed laden, maar het staat in [Les1](M5-Opdrachten).
 
-
-
 ## Les 2
 Dit gedeelte wordt voor Les 2 van M5.
 
 Ik heb deze nog niet gemaakt, maar ik zal dat zeker doen (1-10-2026 22:26)
+
+zit eraan te werken, heb moeite met de pickup een trigger functie te geven. (29-10-2026)
 
 ## Les 3
 Dit gedeelte wordt voor Les 3 van M5,

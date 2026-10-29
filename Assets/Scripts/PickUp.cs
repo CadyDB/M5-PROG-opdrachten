@@ -1,15 +1,18 @@
+using System;
 using UnityEngine;
 
 public class PickUp : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static event Action<int> ScoreAdded; //Definitie van een Action Event met int als argument
+    private int scoreValue = 50;
+    void Update()
     {
+        
+            ScoreAdded?.Invoke(scoreValue);//geef een waarde mee aan de Invoke() methode
         
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter(Collider other)
     {
         
     }
