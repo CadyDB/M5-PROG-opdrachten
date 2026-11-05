@@ -6,6 +6,8 @@ using UnityEngine;
     int HP = 100;
     void Start()
     {
+
+        
         int resultaat = Max(60, 40);
         Debug.Log(resultaat);
 
@@ -15,8 +17,11 @@ using UnityEngine;
         
 
         Begroet(Naam);
-
-        
+          string[] vijanden = { "Goblin", "Ork", "Draak", "Trol", "Skelet" };
+         for(int i = 0; i < vijanden.Length; i++)
+         {
+            Debug.Log(vijanden[i]);
+         }
 
         //Debug.Log("Naam: " + Naam);
         //Debug.Log("Score: " + Score);
@@ -29,16 +34,17 @@ using UnityEngine;
         }
         
     }
-  int Max(int a, int b)
+    int Max(int a, int b)
     {
         int hoogste = Mathf.Max(a, b);
         return hoogste;
     }
+    
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            Debug.Log("Health: " + HP);
+            //Debug.Log("Health: " + HP);
             HP = HP - 35;
         }
 
@@ -46,7 +52,8 @@ using UnityEngine;
         {
             HP = HP - 80;
         }
-
+        
+       
         
     }
 

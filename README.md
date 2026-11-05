@@ -11,9 +11,9 @@ Opdracht 1.3, Naam uitprinten, makkelijk, nieuwe functie geschreven en opgeroepe
 
 Opdracht 1.4, grootste nummer berekenen, met een beetje hulp van AI is het gelukt.
 
-Opdracht 1.5, 
+Opdracht 1.5, Kom ik niet uit.
 
-Opdracht 1.6,
+Opdracht 1.6, vijanden namen printen, vond het wel makkelijk.
 
 Opdracht 1.7,
 
