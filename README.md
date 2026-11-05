@@ -13,6 +13,18 @@ Opdracht 1.4, grootste nummer berekenen, met een beetje hulp van AI is het geluk
 
 Opdracht 1.5, 
 
+Opdracht 1.6,
+
+Opdracht 1.7,
+
+Opdracht 1.8,
+
+Opdracht 1.9,
+
+Opdracht 1.10,
+
+Opdracht 1.11,
+
 screenshots willen niet goed laden, maar het staat in [Les1](M5-Opdrachten).
 
 en het script is [Prog_les1](Assets/Scripts/PROG_Les1.cs)

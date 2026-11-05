@@ -16,6 +16,8 @@ using UnityEngine;
 
         Begroet(Naam);
 
+        
+
         //Debug.Log("Naam: " + Naam);
         //Debug.Log("Score: " + Score);
         //Debug.Log("Alive: " + Alive);
@@ -48,8 +50,12 @@ using UnityEngine;
         
     }
 
-    //int BerekenSchade(int aanval, int verdediging)
     
+     void BerekenSchade(int aanval, int verdediging)
+    {
+        int schade = Mathf.Abs(aanval - verdediging);
+
+    }
 
    
 
