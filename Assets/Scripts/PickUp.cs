@@ -8,12 +8,13 @@ public class PickUp : MonoBehaviour
     void Update()
     {
         
-            ScoreAdded?.Invoke(scoreValue);//geef een waarde mee aan de Invoke() methode
+            //ScoreAdded?.Invoke(scoreValue);//geef een waarde mee aan de Invoke() methode
         
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        
+        ScoreAdded?.Invoke(scoreValue);
+        Destroy(gameObject);
     }
 }

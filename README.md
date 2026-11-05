@@ -15,12 +15,17 @@ Opdracht 1.5,
 
 screenshots willen niet goed laden, maar het staat in [Les1](M5-Opdrachten).
 
+en het script is [Prog_les1](Assets/Scripts/PROG_Les1.cs)
+
 ## Les 2
 Dit gedeelte wordt voor Les 2 van M5.
 
 Ik heb deze nog niet gemaakt, maar ik zal dat zeker doen (1-10-2026 22:26)
 
 zit eraan te werken, heb moeite met de pickup een trigger functie te geven. (29-10-2026)
+
+![Les2](Gifs/Les2.gif)
+Hierbij Les 2, een opdracht met een speler, een trigger en een scoreboard. Deze scripts heb ik gebruikt: [Pickup](Assets/Scripts/PickUp.cs), [Scoreboard](Assets/Scripts/Scoreboard.cs). Een simpele opdracht, moest wel nog wat hulp vragen.
 
 ## Les 3
 Dit gedeelte wordt voor Les 3 van M5,
