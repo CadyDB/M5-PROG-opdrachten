@@ -34,6 +34,9 @@ Ik was ziek bij deze Les maar ik zal het weer terug lezen om te kijken wat ik mo
 
 Ik denk dat ik wat meer context nodig heb voor deze opdrachten, Excuses ervoor dat ik het niet gemaakt heb meneer. (1-10-2026 23:51)
 
+### Bugs van tower defense
+Torens plaaten, script neemt de positie van de muis, kleine offset alleen, hij neemt de tiles aan als het pad dus op sommige plekken plaats hij niet. Ik denk dat het probleem in het script ligt. Ik weet zelf niet helemaal hoe ik het moet oplossen.
+
 ## Les 4
 Gegroet, daar been ik weer, Dit is Les 4! 
 
